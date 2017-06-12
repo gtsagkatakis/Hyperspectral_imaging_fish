@@ -13,7 +13,8 @@ cooling conditions
 -The fish was defrosted and imaged on 12/6. 
 
 ## Measurements 
-For each fish, a hyperspectral image of 25 bands was acquired in the wavelength 680-970nm
-Then five pixels, corresponding to different regions of the fish, were selected and the corresponding
+-For each case, a hyperspectral image of 25 bands was acquired in the wavelength 680-970nm. Individual bands are
+stored in the Bands folder
+-Then five different regions of the fish (shown in selection.tiff) were selected and the corresponding
 spectral profile for each pixel was extracted.
-The extracted spectral profiles were stored as plots and in csv files
+-The extracted spectral profiles were stored as plots and in csv files (spectrum.tiff and vals_dayX.csv)
