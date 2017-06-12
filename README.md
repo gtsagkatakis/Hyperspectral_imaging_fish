@@ -1,16 +1,16 @@
-## Synopsis
+# Synopsis
 
 The dataset contains hyperspectral images for of minnow fishes with the objective of investigating if freshness of
 the fish can be estimated using hyperspectral imaging.
 
 
 ## Dataset description
-Three fishes were obtained and imaged on 8/6. Afterwards they were stored in the deep freeze
+-One fish was obtained and imaged on 8/6. Afterwards it were stored in the deep freeze
 
-One fish was defrosted and imaged on 9/6. The fishes were subsequently stored in normal
+-The fish was defrosted and imaged on 9/6. The fish was subsequently stored in normal
 cooling conditions
 
-The two other fishes will be imaged on two additional days.
+-The fish was defrosted and imaged on 12/6. 
 
 ## Measurements 
 For each fish, a hyperspectral image of 25 bands was acquired in the wavelength 680-970nm
